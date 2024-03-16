@@ -11,10 +11,12 @@ Antes de comenzar, asegúrate de tener instalado en tu computadora:
 - npm 
 
 ## Instrucciones de instalación
-
-1. Clona este repositorio en tu computadora:
-
-   
+   1. Clona este repositorio en tu computadora:
+      git clone https://github.com/Ihenr/rickandmortyAPI.git
+   2. Instala las dependencias del proyecto utilizando npm:
+      npm install
+  3. Una vez completada la instalación, puedes ejecutar la aplicación utilizando el siguiente comando:
+     npm run dev
 
 
  
